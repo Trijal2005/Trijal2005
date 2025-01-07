@@ -10,7 +10,7 @@
   - 🖼️ Creating **GUI-based apps** with **Python’s Tkinter**.  
   - 🌐 Building **responsive, creative websites** as part of my Full Stack journey.  
 
-## 🌈 Fun Fact  
+## ✨ Fun Fact  
 Coding isn’t just my career path—it’s my **canvas for creativity**! ❤️  
 
 Let’s build something amazing together! 🌐✨  
